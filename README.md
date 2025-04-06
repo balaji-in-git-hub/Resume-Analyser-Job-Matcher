@@ -16,7 +16,7 @@ This project focuses on analyzing job postings and resumes using web scraping, n
 
 ## Power BI Dashboard
 
-![Dashboard](https://github.com/balaji-in-git-hub/Resume-Analyser-Job-Matcher/blob/main/files/Dashboard.pdf)
+![Dashboard](https://github.com/balaji-in-git-hub/Resume-Analyser-Job-Matcher/blob/main/files/Dashboard.jpeg)
 
 ## Dashboard Highlights
 - Resume vs Job Skills Gap
@@ -31,3 +31,6 @@ This project focuses on analyzing job postings and resumes using web scraping, n
 - Real-time scraping with Selenium
 - Resume-job matching logic using fuzzy scoring
 - Power BI storytelling with data insights
+
+## Contact
+For any questions, suggestions, or feedback, feel free to open an issue in this GitHub repository.
